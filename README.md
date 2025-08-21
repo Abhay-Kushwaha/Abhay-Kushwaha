@@ -2,7 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00B140&height=250&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=50&fontColor=ffffff" alt="header"/>
 </p>
 
-![fbc6f31bd3b84159470b973aca7e0f97_gif 1,920 × 1,080 pixels]([https://github.com/user-attachments/assets/a4e0e85c-67b7-4b95-beb5-f367a598d88f](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDAyZWY2OWd2ZGliOTU1dnNzZ2F1NGk0ZjZ3N3FwNmZ5YXhzZDQyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G2cpDFcKzAPMScb0MC/giphy.gif))
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDAyZWY2OWd2ZGliOTU1dnNzZ2F1NGk0ZjZ3N3FwNmZ5YXhzZDQyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G2cpDFcKzAPMScb0MC/giphy.gif" 
+       alt="Coding at night" 
+       width="800"/>
+</p>
 
 <h1 align="center">I'm Friendly Neighbourhood Abhay Kushwaha 👋🕸️</h1>
 
@@ -17,13 +21,10 @@ Hey there! I'm **Abhay Kushwaha**, a curious mind and a **Full Stack MERN Develo
 - 🛠️ **Builder at Heart** – I thrive on crafting apps that are not just functional but actually make people’s lives easier.  
 - 🌱 **Forever Learning** – Whether it’s the MERN stack, DevOps tricks, or a sprinkle of AI/ML, I’m always levelling up.  
 - 💡 **Problem-Solver** – I see bugs as tiny puzzles waiting to be cracked.  
-- ⚡ **Fun Side** – You’ll often find me experimenting with automation, exploring new frameworks, or geeking out over system internals late at night.  
+- ⚡ **Fun Side** – You’ll often find me experimenting with automation, exploring new frameworks, or geeking out over system internals late at night.
 
-> *Code is my canvas, and I love painting it with logic, design, and creativity.* 🎨💻
+> *Code is my canvas, and I love painting it with logic, design, and creativity.*
 
-
-```javascript
-```
 # 🚀 Profiles
 <p align="center">
   <a href="https://www.linkedin.com/in/abhay-k-5a0902278/">
@@ -92,7 +93,7 @@ Hey there! I'm **Abhay Kushwaha**, a curious mind and a **Full Stack MERN Develo
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-### ✍️ Dev Quote
+### ✍️ Dev Inspired by Quote
 > *With Great Power Comes Great Responsibility*
 ~ Spiderman
 
